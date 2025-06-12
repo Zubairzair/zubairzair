@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muhammad Zubair Zair
 
-<!--
-**Zubairzair/zubairzair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A final-year Computer Science student at University of Agriculture, Burewala Campus  
+💻 Flutter developer with hands-on experience in Firebase, REST APIs & UI design  
+📱 Built multiple cross-platform mobile apps including:
+- 🔹 Smart Pharmacy System (Firebase CRUD + Auth)
+- 🔹 Student Record Manager (Realtime DB)
+- 🔹 Online Image Gallery (Pexels API)
+- 🔹 AI Quiz App & Assignment Launcher
 
-Here are some ideas to get you started:
+🌱 Currently learning advanced state management in Flutter  
+📫 Reach me at: [hafizzubair279@gmail.com](mailto:hafizzubair279@gmail.com)  
+🔗 Connect: [LinkedIn](https://linkedin.com/in/m-zubair-142833360)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “I turn ideas into functional mobile solutions”
