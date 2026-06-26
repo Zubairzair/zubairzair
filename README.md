@@ -1,6 +1,6 @@
 #  Hi there, I'm Muhammad Zubair Zair
 
-AI Expert & Mentor | Business Automation Specialist
+## AI Expert & Mentor | Business Automation Specialist
 
 I build intelligent systems that streamline business operations. My focus is on designing end-to-end automation workflows that reduce manual labor, enhance efficiency, and scale productivity using modern AI tools and agents.
 
